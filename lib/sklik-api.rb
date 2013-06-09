@@ -3,7 +3,7 @@ require 'rubygems'
 require 'rack'
 require 'pp'
 require 'json'
-require 'unicode'
+#require 'unicode'
 require 'uri'
 
 #for sklik miner
